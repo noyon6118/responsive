@@ -1,0 +1,190 @@
+/* Extra small devices (phones, 700px and down) */
+@media(max-width: 600px) {
+
+    .logo-part a img{
+        
+        width: 65%;
+    }
+
+    .menu-part {
+        width: 100%;
+        float: left;
+    }
+
+    .menu {
+        width: 100%;
+        
+        text-align: left;
+        margin-top: 15px;
+    }
+
+     .menu ul{
+        text-align: left;
+     }
+
+     .menu li{
+       
+        margin-bottom: 10px;
+        text-align: left;
+        margin-left: 11px;
+        
+        
+     }
+
+     .delivery-part {
+        width: 100%;
+        float: left;
+        margin: -39px 1px 19px 1px;
+        text-align: end;
+    
+    }
+
+     .hero {
+        width: 100%;
+       
+        
+    }
+
+    .hero-contant h1 {
+        font-size: 17px;
+        border: 2px dashed #3d2514;
+        padding: 5px 10px;
+        display: inline-block;
+        font-family: 'Bebas Neue', cursive;
+        text-align: center;
+    }
+
+    .hero-contant h2{
+        font-size: 57px;
+        color: #3d2514;
+        text-shadow: 4px 3px 5px white;
+        font-family: 'Alfa Slab One', cursive;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+   
+        .hero-contant h3 {
+            font-size: 45px;
+            color: #3d2514;
+            text-shadow: 4px 3px 5px white;
+            font-family: 'Alfa Slab One';
+            font-weight: bold;
+            text-transform: uppercase;
+    }
+
+    
+        .hero-img img {
+            width: 88%;
+            margin-left: 51px;
+        }
+        
+        
+        #section1 {
+            width: 100%;
+            float: left;
+            padding: 50px 0px;
+        }
+
+        .cal-1{
+            width: 100%;
+            float: left;
+            background: url(../photo/b1.png);
+            height: 428px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin: 1px 0px 36px 1px;
+            
+            border-radius: 8px;
+        }
+
+        
+        .cal-2 {
+           width: 100%;
+           float: left;
+           
+         }
+
+         .cal-2 .row-1 {
+            width: 100%;
+            float: left;
+            background: url(../photo/b2.png);
+            height: 195px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin: 1px 1px 35px 1px;
+            border-radius: 5px;
+        }
+
+        .cal-2 .row-2 {
+            width: 100%;
+            float: left;
+            background: url(../photo/b3.png);
+            height: 195px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin: 0px 0px 0px 0px;
+            border-radius: 5px;
+        }
+
+        #section3 {
+            width: 100%;
+            float: left;
+            padding-top: 10px;
+            text-align: center;
+        }
+
+        .section1 {
+            width: 100%;
+            float: left;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .section2 {
+            width: 100%;
+            float: left;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .section3 {
+            width: 100%;
+            float: left;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+
+        #section4 {
+            width: 100%;
+            float: left;
+            padding: 0px 0px 20px 0px;
+            margin-top: -54px;
+        }
+        
+        .discoverd {
+            width: 100%;
+            float: left;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .discoverd h4 {
+            padding: 10px 0px 10px 0px;
+        }
+         
+        .img {
+            width: 100%;
+            float: left;
+        }
+
+      
+}
+
+
+
+
+
+
+
